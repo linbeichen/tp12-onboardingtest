@@ -6,8 +6,7 @@ import googlemaps
 import pandas as pd
 import polyline
 import json
-import networkx as nx
-from geopy.geocoders import GoogleV3
+
 
 
 # Parse the Geo Shape field and generate routes
