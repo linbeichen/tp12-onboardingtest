@@ -4,5 +4,4 @@ dash_leaflet
 googlemaps
 pandas
 polyline
-json
 gunicorn
